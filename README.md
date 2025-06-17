@@ -1,5 +1,5 @@
 # About
-A simple SSR (Server Side Rendering) implementation using ONLY vanilla node.js
+A simple SSR (Server Side Rendering) implementation using Express+Node.js
 
 ## Extra
 - CDN based Tailwind
