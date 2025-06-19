@@ -15,7 +15,7 @@ A simple SSR (Server Side Rendering) implementation using Express+Node.js
 > I asummed you to have [Node.js](https://nodejs.org/en) and [git](https://git-scm.com) installed!
 
 - Clone the package `git clone https://github.com/TatshSiow/nodejs-ssr-sample.git`
-- cd to cloned directory `cd cd nodejs-ssr-sample`
+- cd to cloned directory `cd nodejs-ssr-sample`
 - install express package `npm install express`
 
 ## Start local node server
